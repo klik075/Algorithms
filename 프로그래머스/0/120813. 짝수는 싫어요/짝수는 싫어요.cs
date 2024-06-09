@@ -8,8 +8,6 @@ public class Solution {
             if(i%2 != 0)
                 arr.Add(i);
         }
-        int[] answer = new int[]{};
-        answer = arr.ToArray();
-        return answer;
+        return arr.ToArray();
     }
 }
