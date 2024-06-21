@@ -19,8 +19,8 @@ public class Solution {
                 answer2 *= num2;
                 answer2 += item;
             }
-            answer = answer1 + answer2;
         }
+        answer = answer1 + answer2;
         return answer;
     }
 }
