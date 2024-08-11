@@ -1,9 +1,9 @@
 public class Solution {
     public int solution(int[,] lines) {
-        int[] counts = new int[201]; // -100 to 100 range, shifted by 100
+        int[] counts = new int[201];
         
         for (int i = 0; i < lines.GetLength(0); i++) {
-            int start = lines[i, 0] + 100; // Shift to ensure positive indices
+            int start = lines[i, 0] + 100;
             int end = lines[i, 1] + 100;
             
             for (int j = start; j < end; j++) {
