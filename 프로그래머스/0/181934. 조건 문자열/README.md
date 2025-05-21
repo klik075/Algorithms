@@ -1,10 +1,10 @@
 # [level 0] 조건 문자열 - 181934 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=csharp) 
 
 ### 성능 요약
 
-메모리: 3.59 MB, 시간: 0.01 ms
+메모리: 31.2 MB, 시간: 0.34 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 21일 13:14:51
+2025년 05월 21일 13:15:59
 
 ### 문제 설명
 
