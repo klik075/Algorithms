@@ -1,10 +1,10 @@
 # [level 0] 마지막 두 원소 - 181927 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181927) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=cpp) 
 
 ### 성능 요약
 
-메모리: 31.3 MB, 시간: 0.18 ms
+메모리: 3.63 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 21일 21:05:41
+2025년 05월 25일 13:24:35
 
 ### 문제 설명
 
