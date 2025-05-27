@@ -13,10 +13,7 @@ public class Solution {
         if(x3 == true || x4 == true)
             answer = true;
         else
-        {
             answer = false;
-            return answer;
-        }
         return answer;
     }
 }
