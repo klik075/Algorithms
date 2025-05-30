@@ -4,11 +4,7 @@
 using namespace std;
 
 vector<int> solution(string my_string) {
-    vector<int> answer;
-    answer.reserve(52);
-    
-    for(int i = 0; i < 52; i++)
-        answer.push_back(0);
+    vector<int> answer(52, 0);
     
     for(int i = 0; i < my_string.size(); i++)
     {
