@@ -1,10 +1,10 @@
 # [level 0] 2의 영역 - 181894 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181894) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181894?language=cpp) 
 
 ### 성능 요약
 
-메모리: 36.4 MB, 시간: 0.72 ms
+메모리: 16.6 MB, 시간: 23.82 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 25일 14:02:18
+2025년 06월 01일 15:19:36
 
 ### 문제 설명
 
