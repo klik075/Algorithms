@@ -1,10 +1,10 @@
 # [level 0] 배열 조각하기 - 181893 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181893) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181893?language=csharp) 
 
 ### 성능 요약
 
-메모리: 6.66 MB, 시간: 1.13 ms
+메모리: 32.8 MB, 시간: 1.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 01일 15:30:27
+2025년 06월 01일 15:39:41
 
 ### 문제 설명
 
