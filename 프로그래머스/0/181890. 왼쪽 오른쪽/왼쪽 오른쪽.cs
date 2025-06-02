@@ -22,7 +22,7 @@ public class Solution {
             }
         }
         if(answer.Count == str_list.Length)
-            return new string[]{};
+            answer.Clear();
         return answer.ToArray();
     }
 }
