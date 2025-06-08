@@ -1,10 +1,10 @@
 # [level 0] 문자열 바꿔서 찾기 - 181864 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181864) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=cpp) 
 
 ### 성능 요약
 
-메모리: 31.3 MB, 시간: 0.27 ms
+메모리: 3.71 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 10일 14:44:56
+2025년 06월 08일 17:33:46
 
 ### 문제 설명
 
