@@ -1,10 +1,10 @@
 # [level 0] 두 수의 합 - 181846 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181846) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181846?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.22 MB, 시간: 11.41 ms
+메모리: 50.6 MB, 시간: 6013.38 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 20일 18:00:05
+2025년 06월 20일 18:19:09
 
 ### 문제 설명
 
