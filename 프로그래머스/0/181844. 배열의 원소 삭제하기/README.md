@@ -1,10 +1,10 @@
 # [level 0] 배열의 원소 삭제하기 - 181844 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181844) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181844?language=cpp) 
 
 ### 성능 요약
 
-메모리: 31.5 MB, 시간: 1.45 ms
+메모리: 3.67 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 03일 19:52:56
+2025년 06월 20일 17:32:10
 
 ### 문제 설명
 
