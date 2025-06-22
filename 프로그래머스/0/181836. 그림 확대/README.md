@@ -1,10 +1,10 @@
 # [level 0] 그림 확대 - 181836 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181836) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181836?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.12 MB, 시간: 0.38 ms
+메모리: 34.8 MB, 시간: 6.35 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 22일 21:59:52
+2025년 06월 22일 22:03:09
 
 ### 문제 설명
 
