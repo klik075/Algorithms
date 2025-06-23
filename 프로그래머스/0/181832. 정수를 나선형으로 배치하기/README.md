@@ -1,10 +1,10 @@
 # [level 0] 정수를 나선형으로 배치하기 - 181832 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181832) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181832?language=cpp) 
 
 ### 성능 요약
 
-메모리: 31.2 MB, 시간: 0.52 ms
+메모리: 4.2 MB, 시간: 0.26 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 12일 04:00:16
+2025년 06월 23일 13:26:05
 
 ### 문제 설명
 
@@ -56,7 +56,8 @@
 <p>입출력 예 #1</p>
 
 <ul>
-<li><p>예제 1번의 <code>n</code>의 값은 4로 4 × 4 배열에 다음과 같이 1부터 16까지 숫자를 채울 수 있습니다.</p>
+<li>예제 1번의 <code>n</code>의 값은 4로 4 × 4 배열에 다음과 같이 1부터 16까지 숫자를 채울 수 있습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>행 \ 열</th>
@@ -95,14 +96,13 @@
 <td>7</td>
 </tr>
 </tbody>
-      </table>
-<p>따라서 [[1, 2, 3, 4], [12, 13, 14, 5], [11, 16, 15, 6], [10, 9, 8, 7]]를 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [[1, 2, 3, 4], [12, 13, 14, 5], [11, 16, 15, 6], [10, 9, 8, 7]]를 return 합니다.
+</code></pre></div>
 <p>입출력 예 #2</p>
 
 <ul>
-<li><p>예제 2번의 <code>n</code>의 값은 5로 5 × 5 배열에 다음과 같이 1부터 25까지 숫자를 채울 수 있습니다.</p>
+<li>예제 2번의 <code>n</code>의 값은 5로 5 × 5 배열에 다음과 같이 1부터 25까지 숫자를 채울 수 있습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>행 \ 열</th>
@@ -154,9 +154,7 @@
 <td>9</td>
 </tr>
 </tbody>
-      </table>
-<p>따라서 [[1, 2, 3, 4, 5], [16, 17, 18, 19, 6], [15, 24, 25, 20, 7], [14, 23, 22, 21, 8], [13, 12, 11, 10, 9]]를 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [[1, 2, 3, 4, 5], [16, 17, 18, 19, 6], [15, 24, 25, 20, 7], [14, 23, 22, 21, 8], [13, 12, 11, 10, 9]]를 return 합니다.
+</code></pre></div>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
