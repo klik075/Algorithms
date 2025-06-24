@@ -8,10 +8,8 @@ public class Solution {
         "six", "seven", "eight", "nine"
     };
         for(int i = 0; i < arr.Count; i++)
-        {
-            while(numbers.Contains(arr[i]))
-                numbers = numbers.Replace(arr[i],i.ToString());
-        }
+            numbers = numbers.Replace(arr[i],i.ToString());
+        
         answer = Int64.Parse(numbers);
         return answer;
     }
