@@ -5,28 +5,25 @@
 using namespace std;
 
 int solution(vector<int> array) {
-    int answer = 0;
+    
     if(array.size() == 1)
         return array.back();
     
-    priority_queue<pair<int,int>> max_pq;
     map<int,int> map;
+    for(auto num : array)
+        map[num]++;
     
-    for(auto i : array)
-    {
-        map[i] += 1;
-        max_pq.push({map[i], i});
-    }
+    priority_queue<pair<int, int>> max_pq;
+    for (auto const& [num, count] : map)
+        max_pq.push({count, num});
     
     pair<int,int> pair1 = max_pq.top();
     max_pq.pop();
-    pair<int,int> pair2 = max_pq.top();
-    max_pq.pop();
     
-    if(pair1.first == pair2.first)
-        answer = -1;
-    else
-        answer = pair1.second;
-
-    return answer;
+    if (max_pq.empty()) {
+        return pair1.second;
+    }
+    
+    pair<int, int> pair2 = max_pq.top();
+    return pair1.first == pair2.first ? -1 : pair1.second;
 }
