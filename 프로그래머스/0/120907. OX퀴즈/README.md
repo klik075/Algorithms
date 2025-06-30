@@ -1,10 +1,10 @@
 # [level 0] OX퀴즈 - 120907 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120907) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=csharp) 
 
 ### 성능 요약
 
-메모리: 3.68 MB, 시간: 0.04 ms
+메모리: 31.3 MB, 시간: 0.79 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 30일 13:56:21
+2025년 06월 30일 14:00:50
 
 ### 문제 설명
 
