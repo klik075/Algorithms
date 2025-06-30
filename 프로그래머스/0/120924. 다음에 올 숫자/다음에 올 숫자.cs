@@ -3,20 +3,17 @@ using System;
 public class Solution {
     public int solution(int[] common) {
         int answer = 0;
-        bool isAdd = true;
-        int mul = 1;
+        bool isAdd = false;
+        int mul = common[1] / common[0];
         int dif = common[1] - common[0];
         int last = common[common.Length - 1];
         for(int i = 1; i < common.Length; i++)
         {
-            if(common[i] != 0 && common[i-1] != 0)
-                mul = common[i] / common[i-1];
-            
-            if(common[i] - common[i-1] == dif)
-                isAdd = true;
+            if(common[i] / common[i-1] == mul)
+                isAdd = false;
             else
             {
-                isAdd = false;
+                isAdd = true;
                 break;
             }
         }
