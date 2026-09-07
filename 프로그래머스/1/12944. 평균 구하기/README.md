@@ -1,10 +1,10 @@
 # [level 1] 평균 구하기 - 12944 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=java) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 0.17 ms
+메모리: 87 MB, 시간: 3.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 4일 9:44:2
+2026년 09월 07일 09:29:11
 
 ### 문제 설명
 
