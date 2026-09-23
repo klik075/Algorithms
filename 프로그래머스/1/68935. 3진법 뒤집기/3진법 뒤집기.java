@@ -23,7 +23,7 @@ class Solution {
                 for(int i = arr.size() - num; i > 0; i--){
                     Multiplication *= 3;
                 }
-                System.out.println(arr.get(index) * Multiplication);
+                
                 return arr.get(index) * Multiplication;
             })
             .sum();
