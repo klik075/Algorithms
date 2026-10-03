@@ -14,12 +14,8 @@ class Solution {
                     .limit(endIndex - startIndex + 1)
                     .sorted()
                     .toArray();
-            for(int k : result)
-            {
-                System.out.print(k);
-            }
+            
             answer[i] = result[targetIndex];
-            System.out.println();
         }
         return answer;
     }
